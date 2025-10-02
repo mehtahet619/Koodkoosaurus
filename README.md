@@ -34,7 +34,7 @@ A revolutionary take on the classic Chrome Dinosaur game with **tongue detection
 ## 🛠️ Installations:
 
 ### Prerequisites
-- Python 3.7+
+- Python 3.7+ (**Important - mediapipe==0.10.14 is supported in versions btwn 3.7+ to 3.12.**)
 - Webcam (for tongue detection)
 
 ### Setup
