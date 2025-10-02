@@ -31,7 +31,7 @@ A revolutionary take on the classic Chrome Dinosaur game with **tongue detection
 - **Retro Pixel Art**: Authentic Chrome Dino aesthetic with custom sprites
 - **Dual Control Support**: Fallback keyboard controls (Space/Up/Down for P1, W/S for P2)
 
-## 🛠️ Installation
+## 🛠️ Installations:
 
 ### Prerequisites
 - Python 3.7+
