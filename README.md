@@ -40,7 +40,7 @@ A revolutionary take on the classic Chrome Dinosaur game with **tongue detection
 ### Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/diwenne/jumping-dino.git
+   https://github.com/mehtahet619/Koodkoosaurus.git
    cd jumping-dino
    ```
 
